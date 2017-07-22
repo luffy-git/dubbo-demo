@@ -19,6 +19,6 @@ Maven中settings.xml,讲Maven仓库修改为阿里云的镜像地址,找到mirro
 
 运行
     1.对dubbo-demo执行maven install命令
-    2.运行dubbo-provider项目下的App中的main方法
-    3.运行dubbo-consumer项目下的App中的main方法
+    2.运行dubbo-provider<服务端>项目下的App中的main方法
+    3.运行dubbo-consumer<消费端>项目下的App中的main方法
     4.在浏览器输入http://localhost:8082/hello测试即可
