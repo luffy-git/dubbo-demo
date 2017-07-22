@@ -9,7 +9,7 @@ Zookeeper下载地址:
 
 
 
-Maven中settings.xml,讲Maven仓库修改为阿里云的镜像地址,找到mirror节点，复制下面代码即可.
+Maven中settings.xml,将Maven仓库修改为阿里云的镜像地址,找到mirror节点，复制下面代码即可.
     <mirror>
         <id>alimaven</id>
         <name>aliyun maven</name>
