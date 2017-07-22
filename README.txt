@@ -4,8 +4,7 @@ Zookeeper下载地址:
 
 
 
-一大堆各版本JDK、JQuery、Java主流框架、数据库、CSS等等的中英文API，文件有点大,
-最好是保存在自己网盘，有选择性的下载吧。
+一大堆各版本JDK、JQuery、Java主流框架、数据库、CSS等等的中英文API，文件有点大,最好是保存在自己网盘，有选择性的下载吧。
     链接：http://pan.baidu.com/s/1o7Zm0sy 密码：cbxq
 
 
